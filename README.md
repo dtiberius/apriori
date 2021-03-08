@@ -1,2 +1,2 @@
 # apriori
-Function to cleaning the output from the apyori library
+Function to use the apyori library to generate association rules and clean the output to generate a Pandas dataframe.
